@@ -1,0 +1,137 @@
+.header{
+    height: 200px;
+    background-color: bisque;
+}
+.header-logo{
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 65px;
+}
+h1{
+    border-bottom:  double 8px #faeab7;
+}
+.picture{
+    width: 300px;
+}
+.name{
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 800
+}
+.note{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    line-height: 0.7;
+}
+.live{
+    width:  300px;
+    margin: 0px 10px 10px 20px;
+}
+.cafe{
+    width: 300px;
+    margin: 0px 10px 10px 25px;
+}
+.inkopic{
+    width:  300px;
+    margin: 0px 10px 10px 20px;
+}
+.gamepic{
+    width:  300px;
+    margin: 0px 10px 10px 20px;
+}
+.flame1{
+    padding: 10px; 
+    width: 45%;
+    height: 440px;
+    color: #333333;
+    background-color: #faf0e6;
+    border: 2px solid #f8e267;
+    border-radius: 10px;  
+    float:left;
+    }
+    .flame2{
+        padding: 10px; 
+        width: 45%;
+        height: 440px;
+        color: #333333;
+        background-color: #faf0e6;
+        border: 2px solid #f8e267;
+        border-radius: 10px;  
+        margin: 0 0 0 25px;
+        float:left;
+        }
+.flame3{
+    padding: 10px; 
+    width: 45%;
+    height: 440px;
+    color: #333333;
+    background-color: #faf0e6;
+    border: 2px solid #f8e267;
+    border-radius: 10px;  
+    margin: 15px 0px 0px 0px;
+    float:left;
+    }
+    .flame4{
+        padding: 10px; 
+        width: 45%;
+        height: 440px;
+        color: #333333;
+        background-color: #faf0e6;
+        border: 2px solid #f8e267;
+        border-radius: 10px;  
+        margin: 15px 0px 0px 25px;
+        float:left;
+        }
+        .fes{
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+            margin: 0px 0px 0px 111px ;
+            font-weight: 500;
+            background: linear-gradient(transparent 50%,  #f8e267 50%);
+            display:inline;
+          }   
+        .kafe{
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+            margin: 0px 0px 0px 120px ;
+            font-weight: 500;
+            background: linear-gradient(transparent 50%,  #f8e267 50%);
+            display:inline;
+        }
+        .inko{
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+            margin: 0px 0px 0px 90px ;
+            font-weight: 500;
+            background: linear-gradient(transparent 50%,  #f8e267 50%);
+            display:inline;
+          } 
+          .game{
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+            margin: 0px 0px 0px 130px ;
+            font-weight: 500;
+            background: linear-gradient(transparent 50%,  #f8e267 50%);
+            display:inline;
+          } 
+          .like{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+         }
+         p{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+         }
+         .mailpic{
+            width: 130px;
+            margin: 0px 0px 0px 320px;
+         }
+         .Mail{
+            margin:0px 0px 0px px;   
+         }
